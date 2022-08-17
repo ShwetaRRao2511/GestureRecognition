@@ -39,3 +39,7 @@ The training data consists of a few hundred videos categorised into one of the f
 
 I choose CNN+LSTM based model as the final choice due to fairly decent accuracy considering the type of data as well the no. of parameters as I wanted my model to be light weight in nature.
 
+
+Note: I had to get this jupiter notebook working on Kaggel due to Laptop Screen problem. I have done the pat changes in the document.Could you please download the Data from below link and place it in the same folder structure of the Notebook.
+https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
+Thanks for understanding 
